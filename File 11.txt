@@ -1,0 +1,4 @@
+Information retrieval systems can also be distinguished by the scale at
+which they operate, and it is useful to distinguish three prominent scales.
+In web search, the system has to provide search over billions of documents
+stored on millions of computers.
