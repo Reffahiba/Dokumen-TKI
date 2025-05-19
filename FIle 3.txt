@@ -1,5 +1,3 @@
 As defined in this way, information retrieval used to be an activity that only
 a few people engaged in: reference librarians, paralegals, and similar pro-
-fessional searchers. Now the world has changed, and hundreds of millions
-of people engage in information retrieval every day when they use a web
-search engine or search their email.1
+fessional searchers.

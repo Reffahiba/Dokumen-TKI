@@ -1,3 +1,3 @@
 At the other extreme is personal information retrieval. In
 the last few years, consumer operating systems have integrated information
-retrieval (such as Apple’s Mac OS X Spotlight or Windows Vista’s Instant Search).
+retrieval.

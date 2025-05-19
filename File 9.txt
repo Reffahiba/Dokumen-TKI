@@ -1,0 +1,2 @@
+The field of information retrieval also covers supporting users in browsing or 
+filtering document collections or further processing a set of retrieved documents.

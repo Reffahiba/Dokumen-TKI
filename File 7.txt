@@ -1,0 +1,2 @@
+In reality, almost no data are truly unstructured. This is definitely true 
+of all text data if you count the latent linguistic structure of human languages.

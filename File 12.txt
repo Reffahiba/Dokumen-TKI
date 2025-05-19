@@ -1,5 +1,3 @@
-Distinctive issues are needing to gather documents for indexing, 
-being able to build systems that work efficiently at this enormous scale, 
-and handling particular aspects of the web, such as the exploitation of 
-hypertext and not being fooled by site providers manipulating page content 
-in an attempt to boost their search engine rankings, given the commercial importance of the web.
+It is often approached by first
+manually classifying some documents and then hoping to be able to classify
+new documents automatically.

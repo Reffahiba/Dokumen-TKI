@@ -1,0 +1,3 @@
+In between is the space of enterprise, institutional, and domain-specific search, 
+where retrieval might be provided for collections such as a corporation is 
+internal documents, a database of patents, or research articles on biochemistry.

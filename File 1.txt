@@ -1,4 +1,3 @@
 The meaning of the term information retrieval can be very broad. Just getting
 a credit card out of your wallet so that you can type in the card number
-is a form of information retrieval. However, as an academic field of study,
-information retrieval might be defined thus:
+is a form of information retrieval.
