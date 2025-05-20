@@ -1,3 +1,2 @@
 Given a set of documents, clustering is the task of coming up with a good 
-grouping of the documents based on their contents. It is similar to arranging 
-books on a bookshelf according to their topic.
+grouping of the documents based on their contents. 

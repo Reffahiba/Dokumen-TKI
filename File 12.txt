@@ -1,3 +1,2 @@
-It is often approached by first
-manually classifying some documents and then hoping to be able to classify
-new documents automatically.
+It is often approached by first manually classifying some documents and 
+then hoping to be able to classify new documents automatically.

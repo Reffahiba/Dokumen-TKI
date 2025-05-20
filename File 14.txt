@@ -1,3 +1,4 @@
-In between is the space of enterprise, institutional, and domain-specific search, 
-where retrieval might be provided for collections such as a corporation is 
-internal documents, a database of patents, or research articles on biochemistry.
+To process large document collections quickly. The amount of online data
+has grown at least as quickly as the speed of computers, and we would
+now like to be able to search collections that total in the order of billions
+to trillions of words.

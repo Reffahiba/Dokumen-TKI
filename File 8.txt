@@ -1,2 +1,2 @@
-IR is also used to facilitate “semistructured” search such as finding a
+IR is also used to facilitate semistructured search such as finding a
 document where the title contains Java and the body contains threading.

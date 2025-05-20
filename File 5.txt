@@ -1,4 +1,2 @@
 IR can also cover other kinds of data and information problems beyond
-that specified in the core definition above. The term unstructured data
-refers to data which does not have clear, semantically overt, easy for 
-a computer structure.
+that specified in the core definition above. 

@@ -1,3 +1,2 @@
 The simplest form of document retrieval is for a computer to do this sort 
-of linear scan through documents. This process is commonly GREP referred to 
-as grepping through text, after the Unix command grep, which performs this process.
+of linear scan through documents.
